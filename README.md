@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gudd.shahani@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+<!-- - 📄 Know about my experiences [Resume](Resume) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
