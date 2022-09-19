@@ -1,5 +1,5 @@
 ### Hi there My Name is Bhavesh Shahani.
-Aspiring Back End Developer. Will 
+Aspiring Back End Developer.
 
 
 <!-- **BhaveshShahani/BhaveshShahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
