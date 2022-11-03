@@ -2,7 +2,7 @@
 <!-- **BhaveshShahani/BhaveshShahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Bhavesh Shahani</h1>
-<h3 align="center">Aspiring Backend developer from India</h3>
+<h3 align="center">Aspiring Backend Developer </h3>
 
 - 🌱 I’m currently learning **Java** at Masai School, Banglore India. 
 
