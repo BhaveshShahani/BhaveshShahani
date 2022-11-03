@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshshahani&show_icons=true&locale=en" alt="bhaveshshahani" /></p>
 
-[![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhaveshShahani)](https://github.com/BhaveshShahani/github-readme-stats)
+
