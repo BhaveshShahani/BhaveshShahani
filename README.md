@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [bhaveshshahani.github.io](bhaveshshahani.github.io)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Java, DSA.**
+- 💬 Ask me about ** DSA,HTML, CSS, Javascript, Java.**
 
 - 📫 How to reach me **gudd.shahani@gmail.com**
 
