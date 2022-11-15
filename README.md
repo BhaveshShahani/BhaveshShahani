@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java** at Masai School, Banglore India. 
 
-- 👨‍💻 All of my projects are available at [bhaveshshahani.githuub.io](bhaveshshahani.github.io)
+- 👨‍💻 All of my projects are available at [bhaveshshahani.github.io](bhaveshshahani.github.io)
 
 - 💬 Ask me about **,HTML, CSS, Javascript, Java, DSA .**
 
