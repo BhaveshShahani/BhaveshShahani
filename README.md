@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Shahani</h1>
 <h3 align="center">Aspiring Backend Developer </h3>
 
-- 🌱 I’m currently learning **Java** at Masai School, Banglore India. 
+- 🌱 I’m currently learning **Java** at Masai School, Bangalore India. 
 
 <!-- - 👨‍💻 All of my projects are available at [bhaveshshahani.github.io](bhaveshshahani.github.io) -->
 
