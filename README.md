@@ -1,8 +1,10 @@
 
 <!-- **BhaveshShahani/BhaveshShahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/bhaveshshahani)
-![](https://visitor-badge.laobi.icu/badge?page_id=bhaveshshahani.bhaveshshahani)
+<!-- [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/bhaveshshahani)
+![](https://visitor-badge.laobi.icu/badge?page_id=bhaveshshahani.bhaveshshahani) -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BhaveshShahani&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Bhavesh Shahani</h1>
