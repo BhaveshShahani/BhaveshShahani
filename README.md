@@ -44,9 +44,10 @@
 
 <div display=flex>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshshahani&show_icons=true&locale=en" alt="bhaveshshahani" /></p>
+  
  
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshshahani&theme=default" alt="bhaveshshahani" /></p>
- </div>  -->
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshshahani&theme=default" alt="bhaveshshahani" /></p> -->
+</div> 
  
 <!--  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d2457bb79ed9e5b9aa4ecfde64371ff271473bad59a024b0e6f1deadc2f4ce72/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e6368616c3237352673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374"><img align="left" src="https://camo.githubusercontent.com/d2457bb79ed9e5b9aa4ecfde64371ff271473bad59a024b0e6f1deadc2f4ce72/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e6368616c3237352673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="bhavesh shahani" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshshahani&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a></p> -->
   
