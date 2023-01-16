@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BhaveshShahani&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Bhavesh Shahani</h1>
+<h1 align="center">Hi 👋. I'm Bhavesh Shahani</h1>
 <h3 align="center">Aspiring Backend Developer </h3>
 
 - 🌱 I’m currently learning **Java** at <a href="https://www.masaischool.com/" target="_blank">Masai School</a>, Bangalore India. 
