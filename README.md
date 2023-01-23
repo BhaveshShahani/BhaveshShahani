@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **JAVA, Hibernate, Maven, Spring Boot, <!--HTML, CSS, Javascript,--> DSA .**
 
-- 📫 How to reach me **gudd.shahani@gmail.com**.
+- 📫 How to reach me **gudd.shahani@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RBUmm_PnjUdEqpTKy9fvHK3gIBKdGmBW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RBUmm_PnjUdEqpTKy9fvHK3gIBKdGmBW/view?usp=sharing).
 
 - ⚡️ Check my [Portfolio](https://bhaveshshahani.github.io/)
 <!-- - 📄 Know about my experiences [Resume](Resume) -->
