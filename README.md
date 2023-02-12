@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [bhaveshshahani.github.io](bhaveshshahani.github.io) -->
 
-- 💬 Ask me about **JAVA, <!--Hibernate, Maven,--> Spring Boot, MySQL,<!--HTML, CSS, Javascript,--> DSA .**
+- 💬 Ask me about **JAVA, <!--Hibernate, Maven,--> Spring Boot,Hibernate, MySQL,<!--HTML, CSS, Javascript,--> DSA .**
 
 - 📫 How to reach me **gudd.shahani@gmail.com**.
 
