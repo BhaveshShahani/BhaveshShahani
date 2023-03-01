@@ -25,6 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ //<a href="mailto:gudd.shahani@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail.com" height="30" width="40" /></a>
 <a href="https://twitter.com/bhaveshshahani7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhaveshshahani7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhavesh-shahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh-shahani" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/gudd_shahani" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="bhavesh-shahani-HackerRank" height="30" width="40" /></a>
